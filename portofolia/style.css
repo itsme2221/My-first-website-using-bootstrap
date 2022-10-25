@@ -1,0 +1,17 @@
+.jumbotron{
+    padding-top: 8rem;
+    background-color: #2b2d2e;
+}
+
+body{
+    height:3000px;
+}
+
+#card{
+    background-color: #2b2d2e;
+    color: white;
+}
+
+section{
+    padding-top: 4rem;
+}
